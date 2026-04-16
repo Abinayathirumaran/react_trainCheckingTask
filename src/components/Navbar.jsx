@@ -10,7 +10,7 @@ function Navbar() {
         <nav className='bg-blue-400 text-white font-semibold p-4'>
             <div className='max-w-6xl mx-auto flex justify-between  items-center'>
                 <div className='flex '>
-                    <img src="\src\assets\logo.png" alt="logo" className="w-18 h-8 font-bold" />
+                    <img src={logo} alt="logo" className="w-18 h-8" />
                     <h1 className='text-xl text-blue-900 font-bold'>Track Journey</h1>
                 </div>
 
