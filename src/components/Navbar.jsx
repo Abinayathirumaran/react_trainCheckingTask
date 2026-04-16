@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Button from './Button';
 import { navLinks } from '../data/navbarData';
+import logo from '../assets/logo.png';
 
 
 function Navbar() {
